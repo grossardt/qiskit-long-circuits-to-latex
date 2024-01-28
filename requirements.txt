@@ -1,0 +1,2 @@
+qiskit>=0.44
+pylatexenc>=2.10
